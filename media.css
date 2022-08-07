@@ -1,0 +1,24 @@
+@media(max-width:768px){
+    .container-galeria{ 
+        grid-template-columns: repeat(2,1fr);
+
+    }
+
+     .h-2{
+        grid-row: span 2;
+     }
+    
+
+    .w-2{
+        grid-column: span 1;
+    }
+
+    .w-3{
+        grid-column: span 2;
+    }
+
+    
+
+
+
+}
