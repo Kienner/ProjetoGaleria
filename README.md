@@ -1,4 +1,4 @@
-# ProjetoGaleria
+# Galeria Responsiva
 
 ## Link do projeto: https://gridgallerykenner.netlify.app
 
